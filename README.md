@@ -1,6 +1,1 @@
-# blind75
-# leetblind75
-# leetblind75
-# leetblind75
-# leetblind75
-# leetblind75
+##https://leetcode.com/studyplan/leetcode-75/
